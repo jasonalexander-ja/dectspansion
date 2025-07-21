@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
-  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/../tildagon-base/tildagon.kicad_sym")(options "")(descr ""))
+  (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/custom_library/tildagon.kicad_sym")(options "")(descr ""))
+  (lib (name "custom_library")(type "KiCad")(uri "${KIPRJMOD}/custom_library/custom_library.kicad_sym")(options "")(descr ""))
+  (lib (name "sc14cvmdect")(type "KiCad")(uri "${KIPRJMOD}/custom_library/sc14cvmdect.kicad_sym")(options "")(descr ""))
 )
