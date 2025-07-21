@@ -506,7 +506,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/v1.0/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../nodular-base/3d/nodule.step",
