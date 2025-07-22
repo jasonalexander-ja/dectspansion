@@ -8,6 +8,8 @@ Based on [sc14cvmdect-devboard](https://github.com/funkeleinhorn/sc14cvmdect-dev
 
 ![Rendered image of the front of the PCB. ](board-render.png)
 
+Currently in early prototype stage. 
+
 ## Components 
 
 | Component | Value          | Footprint      |
@@ -18,12 +20,17 @@ Based on [sc14cvmdect-devboard](https://github.com/funkeleinhorn/sc14cvmdect-dev
 | C4        | 2.2uF          | 0805           |
 | C5        | 100nF          | 0603           |
 | C6        | 1nF            | 0603           |
+| C7        | 47pF           | 0603           |
 | D1        | OSK40603C1E    | 0603           |
 | D2        | ORH-B36G       | 0603           |
 | J2        | 1x3 Pin header | 2.54mm         |
 | J3        | SJ-4351X       | SMT audio jack |
+| J4        | 1x2 Pin header | 2.54mm         |
 | R1        | 1K             | 0603           |
 | R2        | 470R           | 0603           |
 | R3        | 470R           | 0603           |
 | R4        | 1K             | 0603           |
+| R5        | 1K             | 0603           |
+| R6        | 1K             | 0603           |
 | U1        | SC14VCMDECT    |                |
+| U2        | 74AVC4T3144    | XQFN12         |
