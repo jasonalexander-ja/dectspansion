@@ -3,4 +3,5 @@
   (lib (name "tildagon")(type "KiCad")(uri "${KIPRJMOD}/custom_library/tildagon.kicad_sym")(options "")(descr ""))
   (lib (name "custom_library")(type "KiCad")(uri "${KIPRJMOD}/custom_library/custom_library.kicad_sym")(options "")(descr ""))
   (lib (name "sc14cvmdect")(type "KiCad")(uri "${KIPRJMOD}/custom_library/sc14cvmdect.kicad_sym")(options "")(descr ""))
+  (lib (name "74AVC4T3144")(type "KiCad")(uri "${KIPRJMOD}/custom_library/74AVC4T3144.kicad_sym")(options "")(descr ""))
 )
