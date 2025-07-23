@@ -21,6 +21,8 @@ Currently in early prototype stage.
 | C5        | 100nF          | 0603           |
 | C6        | 1nF            | 0603           |
 | C7        | 47pF           | 0603           |
+| C8        | 1uF            | 0402           |
+| C9        | 1uF            | 0402           |
 | D1        | OSK40603C1E    | 0603           |
 | D2        | ORH-B36G       | 0603           |
 | J2        | 1x3 Pin header | 2.54mm         |
@@ -34,3 +36,4 @@ Currently in early prototype stage.
 | R6        | 1K             | 0603           |
 | U1        | SC14VCMDECT    |                |
 | U2        | 74AVC4T3144    | XQFN12         |
+| U3        | ZD24C64A       | TSSOP-8        |
