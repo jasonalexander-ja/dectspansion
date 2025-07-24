@@ -470,7 +470,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "CMT-322-65-SMT-TR"
+    ]
   },
   "meta": {
     "filename": "dectspansion.kicad_pro",
